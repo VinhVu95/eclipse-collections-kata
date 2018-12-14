@@ -55,7 +55,7 @@ public class Exercise1Test extends PetDomainForKata
     {
         // Replace null, with a positive filtering method on MutableList.
         MutableList<Person> peopleWithCats = null;  // this.people...
-        
+
 
         Verify.assertSize(2, peopleWithCats);
     }
